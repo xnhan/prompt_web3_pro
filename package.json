@@ -4,7 +4,7 @@
   "description": "Lightweight, beautiful and user-friendly prompts and live on Webiste. With future web3 very simple library",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/assitnewssed/prompt_web3_pro"
+    "url": "https://github.com/xnhan/prompt_web3_pro"
   },
   "main": "index.js",
   "author": "Assitnews",
@@ -49,7 +49,7 @@
   },
   "types": "./index.d.ts",
   "bugs": {
-    "url": "https://github.com/assitnewssed/prompt_web3_pro/issues"
+    "url": "https://github.com/xnhan/prompt_web3_pro/issues"
   },
-  "homepage": "https://github.com/assitnewssed/prompt_web3_pro#readme"
+  "homepage": "https://github.com/xnhan/prompt_web3_pro#readme"
 }
