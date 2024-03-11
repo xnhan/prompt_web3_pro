@@ -1,6 +1,6 @@
 {
   "name": "prompt_web3_pro",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Lightweight, beautiful and user-friendly prompts and live on Webiste. With future web3 very simple library",
   "license": "MIT",
   "repository": {
@@ -34,7 +34,8 @@
   ],
   "dependencies": {
     "kleur": "^4.0.1",
-    "sisteransi": "^1.0.5"
+    "sisteransi": "^1.0.5",
+    "async": "3.2.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
@@ -42,7 +43,8 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
     "@babel/preset-env": "^7.12.1",
     "tap-spec": "^2.2.2",
-    "tape": "^4.13.3"
+    "tape": "^4.13.3",
+    "eslint": "^7.32.0"
   },
   "engines": {
     "node": ">= 14"
